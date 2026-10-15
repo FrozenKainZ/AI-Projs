@@ -1,0 +1,1197 @@
+[
+ {
+  "id": "HERO_G_MILITIA",
+  "name": "民兵",
+  "faction": "蜀",
+  "quality": "green",
+  "pref": "PG",
+  "designOvr": 58,
+  "signature": [
+   "pass",
+   "speed"
+  ],
+  "base": {
+   "three_point": 69,
+   "mid_range": 70,
+   "rim_finish": 49,
+   "rebound": 35,
+   "pass": 88,
+   "steal": 73,
+   "block": 26,
+   "physical": 34,
+   "speed": 83
+  },
+  "iq": 52
+ },
+ {
+  "id": "HERO_G_WICKER",
+  "name": "藤甲兵",
+  "faction": "蜀",
+  "quality": "green",
+  "pref": "C",
+  "designOvr": 65,
+  "signature": [
+   "rebound",
+   "physical"
+  ],
+  "base": {
+   "three_point": 26,
+   "mid_range": 39,
+   "rim_finish": 94,
+   "rebound": 107,
+   "pass": 49,
+   "steal": 39,
+   "block": 94,
+   "physical": 105,
+   "speed": 39
+  },
+  "iq": 55
+ },
+ {
+  "id": "HERO_G_CROSSBOW",
+  "name": "连弩兵",
+  "faction": "蜀",
+  "quality": "green",
+  "pref": "SG",
+  "designOvr": 62,
+  "signature": [
+   "three_point",
+   "mid_range"
+  ],
+  "base": {
+   "three_point": 94,
+   "mid_range": 85,
+   "rim_finish": 56,
+   "rebound": 34,
+   "pass": 65,
+   "steal": 74,
+   "block": 31,
+   "physical": 50,
+   "speed": 78
+  },
+  "iq": 54
+ },
+ {
+  "id": "HERO_G_FARMER",
+  "name": "屯田兵",
+  "faction": "魏",
+  "quality": "green",
+  "pref": "PF",
+  "designOvr": 60,
+  "signature": [
+   "rebound",
+   "physical"
+  ],
+  "base": {
+   "three_point": 39,
+   "mid_range": 48,
+   "rim_finish": 78,
+   "rebound": 86,
+   "pass": 51,
+   "steal": 48,
+   "block": 72,
+   "physical": 82,
+   "speed": 42
+  },
+  "iq": 53
+ },
+ {
+  "id": "HERO_G_STRONGBOW",
+  "name": "强弩兵",
+  "faction": "魏",
+  "quality": "green",
+  "pref": "SG",
+  "designOvr": 63,
+  "signature": [
+   "mid_range",
+   "three_point"
+  ],
+  "base": {
+   "three_point": 89,
+   "mid_range": 94,
+   "rim_finish": 57,
+   "rebound": 41,
+   "pass": 66,
+   "steal": 76,
+   "block": 32,
+   "physical": 50,
+   "speed": 71
+  },
+  "iq": 54
+ },
+ {
+  "id": "HERO_G_HEAVYINF",
+  "name": "重步兵",
+  "faction": "魏",
+  "quality": "green",
+  "pref": "SF",
+  "designOvr": 61,
+  "signature": [
+   "mid_range",
+   "rim_finish"
+  ],
+  "base": {
+   "three_point": 55,
+   "mid_range": 67,
+   "rim_finish": 74,
+   "rebound": 58,
+   "pass": 64,
+   "steal": 61,
+   "block": 52,
+   "physical": 66,
+   "speed": 54
+  },
+  "iq": 53
+ },
+ {
+  "id": "HERO_G_SAILOR",
+  "name": "水卒",
+  "faction": "吴",
+  "quality": "green",
+  "pref": "PG",
+  "designOvr": 59,
+  "signature": [
+   "speed",
+   "pass"
+  ],
+  "base": {
+   "three_point": 74,
+   "mid_range": 71,
+   "rim_finish": 50,
+   "rebound": 35,
+   "pass": 90,
+   "steal": 74,
+   "block": 27,
+   "physical": 33,
+   "speed": 88
+  },
+  "iq": 52
+ },
+ {
+  "id": "HERO_G_TOWER",
+  "name": "楼船兵",
+  "faction": "吴",
+  "quality": "green",
+  "pref": "C",
+  "designOvr": 64,
+  "signature": [
+   "rebound",
+   "block"
+  ],
+  "base": {
+   "three_point": 29,
+   "mid_range": 38,
+   "rim_finish": 93,
+   "rebound": 108,
+   "pass": 48,
+   "steal": 38,
+   "block": 100,
+   "physical": 96,
+   "speed": 38
+  },
+  "iq": 54
+ },
+ {
+  "id": "HERO_G_ARCHER",
+  "name": "弓手",
+  "faction": "吴",
+  "quality": "green",
+  "pref": "SG",
+  "designOvr": 61,
+  "signature": [
+   "three_point",
+   "mid_range"
+  ],
+  "base": {
+   "three_point": 91,
+   "mid_range": 86,
+   "rim_finish": 55,
+   "rebound": 40,
+   "pass": 64,
+   "steal": 73,
+   "block": 31,
+   "physical": 43,
+   "speed": 76
+  },
+  "iq": 53
+ },
+ {
+  "id": "HERO_G_TURBAN",
+  "name": "黄巾力士",
+  "faction": "群",
+  "quality": "green",
+  "pref": "PF",
+  "designOvr": 66,
+  "signature": [
+   "rim_finish",
+   "physical"
+  ],
+  "base": {
+   "three_point": 36,
+   "mid_range": 53,
+   "rim_finish": 94,
+   "rebound": 86,
+   "pass": 48,
+   "steal": 53,
+   "block": 79,
+   "physical": 96,
+   "speed": 53
+  },
+  "iq": 55
+ },
+ {
+  "id": "HERO_G_BANDIT",
+  "name": "山贼",
+  "faction": "群",
+  "quality": "green",
+  "pref": "PG",
+  "designOvr": 60,
+  "signature": [
+   "steal",
+   "speed"
+  ],
+  "base": {
+   "three_point": 75,
+   "mid_range": 65,
+   "rim_finish": 51,
+   "rebound": 36,
+   "pass": 87,
+   "steal": 86,
+   "block": 27,
+   "physical": 39,
+   "speed": 84
+  },
+  "iq": 53
+ },
+ {
+  "id": "HERO_G_AXE",
+  "name": "飞斧手",
+  "faction": "群",
+  "quality": "green",
+  "pref": "SF",
+  "designOvr": 62,
+  "signature": [
+   "rim_finish",
+   "mid_range"
+  ],
+  "base": {
+   "three_point": 56,
+   "mid_range": 72,
+   "rim_finish": 74,
+   "rebound": 59,
+   "pass": 65,
+   "steal": 62,
+   "block": 46,
+   "physical": 62,
+   "speed": 65
+  },
+  "iq": 54
+ },
+ {
+  "id": "HERO_B_LIAOHUA",
+  "name": "廖化",
+  "faction": "蜀",
+  "quality": "blue",
+  "pref": "SF",
+  "designOvr": 98,
+  "signature": [
+   "rim_finish",
+   "speed"
+  ],
+  "base": {
+   "three_point": 75,
+   "mid_range": 108,
+   "rim_finish": 119,
+   "rebound": 93,
+   "pass": 103,
+   "steal": 98,
+   "block": 83,
+   "physical": 106,
+   "speed": 108
+  },
+  "iq": 67
+ },
+ {
+  "id": "HERO_B_ZHOUCANG",
+  "name": "周仓",
+  "faction": "蜀",
+  "quality": "blue",
+  "pref": "PF",
+  "designOvr": 102,
+  "signature": [
+   "rebound",
+   "physical"
+  ],
+  "base": {
+   "three_point": 66,
+   "mid_range": 82,
+   "rim_finish": 133,
+   "rebound": 152,
+   "pass": 74,
+   "steal": 82,
+   "block": 122,
+   "physical": 149,
+   "speed": 72
+  },
+  "iq": 69,
+  "pref2": "C"
+ },
+ {
+  "id": "HERO_B_MADAI",
+  "name": "马岱",
+  "faction": "蜀",
+  "quality": "blue",
+  "pref": "PG",
+  "designOvr": 96,
+  "signature": [
+   "speed",
+   "rim_finish"
+  ],
+  "base": {
+   "three_point": 106,
+   "mid_range": 115,
+   "rim_finish": 90,
+   "rebound": 58,
+   "pass": 139,
+   "steal": 120,
+   "block": 43,
+   "physical": 62,
+   "speed": 140
+  },
+  "iq": 66
+ },
+ {
+  "id": "HERO_B_GUANPING",
+  "name": "关平",
+  "faction": "蜀",
+  "quality": "blue",
+  "pref": "SF",
+  "designOvr": 100,
+  "signature": [
+   "mid_range",
+   "rim_finish"
+  ],
+  "base": {
+   "three_point": 79,
+   "mid_range": 121,
+   "rim_finish": 121,
+   "rebound": 95,
+   "pass": 105,
+   "steal": 100,
+   "block": 85,
+   "physical": 105,
+   "speed": 105
+  },
+  "iq": 68
+ },
+ {
+  "id": "HERO_B_CAOHONG",
+  "name": "曹洪",
+  "faction": "魏",
+  "quality": "blue",
+  "pref": "PF",
+  "designOvr": 104,
+  "signature": [
+   "rim_finish",
+   "physical"
+  ],
+  "base": {
+   "three_point": 68,
+   "mid_range": 83,
+   "rim_finish": 151,
+   "rebound": 135,
+   "pass": 88,
+   "steal": 83,
+   "block": 125,
+   "physical": 149,
+   "speed": 75
+  },
+  "iq": 70
+ },
+ {
+  "id": "HERO_B_LIDIAN",
+  "name": "李典",
+  "faction": "魏",
+  "quality": "blue",
+  "pref": "PG",
+  "designOvr": 95,
+  "signature": [
+   "pass",
+   "steal"
+  ],
+  "base": {
+   "three_point": 119,
+   "mid_range": 114,
+   "rim_finish": 71,
+   "rebound": 57,
+   "pass": 154,
+   "steal": 128,
+   "block": 43,
+   "physical": 62,
+   "speed": 124
+  },
+  "iq": 66
+ },
+ {
+  "id": "HERO_B_YUJIN",
+  "name": "于禁",
+  "faction": "魏",
+  "quality": "blue",
+  "pref": "C",
+  "designOvr": 103,
+  "signature": [
+   "block",
+   "physical"
+  ],
+  "base": {
+   "three_point": 46,
+   "mid_range": 62,
+   "rim_finish": 149,
+   "rebound": 162,
+   "pass": 77,
+   "steal": 62,
+   "block": 167,
+   "physical": 167,
+   "speed": 72
+  },
+  "iq": 69
+ },
+ {
+  "id": "HERO_B_JIANGQIN",
+  "name": "蒋钦",
+  "faction": "吴",
+  "quality": "blue",
+  "pref": "SG",
+  "designOvr": 97,
+  "signature": [
+   "three_point",
+   "steal"
+  ],
+  "base": {
+   "three_point": 141,
+   "mid_range": 132,
+   "rim_finish": 87,
+   "rebound": 63,
+   "pass": 102,
+   "steal": 128,
+   "block": 49,
+   "physical": 78,
+   "speed": 121
+  },
+  "iq": 67
+ },
+ {
+  "id": "HERO_B_DINGFENG",
+  "name": "丁奉",
+  "faction": "吴",
+  "quality": "blue",
+  "pref": "SG",
+  "designOvr": 99,
+  "signature": [
+   "mid_range",
+   "speed"
+  ],
+  "base": {
+   "three_point": 134,
+   "mid_range": 142,
+   "rim_finish": 89,
+   "rebound": 64,
+   "pass": 104,
+   "steal": 126,
+   "block": 50,
+   "physical": 79,
+   "speed": 134
+  },
+  "iq": 68
+ },
+ {
+  "id": "HERO_B_XUSHENG",
+  "name": "徐盛",
+  "faction": "吴",
+  "quality": "blue",
+  "pref": "PF",
+  "designOvr": 101,
+  "signature": [
+   "block",
+   "rebound"
+  ],
+  "base": {
+   "three_point": 66,
+   "mid_range": 81,
+   "rim_finish": 131,
+   "rebound": 142,
+   "pass": 86,
+   "steal": 81,
+   "block": 133,
+   "physical": 138,
+   "speed": 81
+  },
+  "iq": 68
+ },
+ {
+  "id": "HERO_B_HUAXIONG",
+  "name": "华雄",
+  "faction": "群",
+  "quality": "blue",
+  "pref": "C",
+  "designOvr": 108,
+  "signature": [
+   "rim_finish",
+   "physical"
+  ],
+  "base": {
+   "three_point": 49,
+   "mid_range": 65,
+   "rim_finish": 180,
+   "rebound": 162,
+   "pass": 69,
+   "steal": 65,
+   "block": 164,
+   "physical": 181,
+   "speed": 76
+  },
+  "iq": 71
+ },
+ {
+  "id": "HERO_B_JILING",
+  "name": "纪灵",
+  "faction": "群",
+  "quality": "blue",
+  "pref": "PF",
+  "designOvr": 106,
+  "signature": [
+   "rim_finish",
+   "rebound"
+  ],
+  "base": {
+   "three_point": 59,
+   "mid_range": 85,
+   "rim_finish": 154,
+   "rebound": 146,
+   "pass": 90,
+   "steal": 85,
+   "block": 127,
+   "physical": 138,
+   "speed": 85
+  },
+  "iq": 70
+ },
+ {
+  "id": "HERO_P_WEIYAN",
+  "name": "魏延",
+  "faction": "蜀",
+  "quality": "purple",
+  "pref": "SF",
+  "designOvr": 152,
+  "signature": [
+   "rim_finish",
+   "mid_range"
+  ],
+  "base": {
+   "three_point": 120,
+   "mid_range": 181,
+   "rim_finish": 192,
+   "rebound": 144,
+   "pass": 168,
+   "steal": 152,
+   "block": 129,
+   "physical": 167,
+   "speed": 160
+  },
+  "iq": 88,
+  "pref2": "PF"
+ },
+ {
+  "id": "HERO_P_ZHANGHE",
+  "name": "张郃",
+  "faction": "魏",
+  "quality": "purple",
+  "pref": "PF",
+  "designOvr": 155,
+  "signature": [
+   "rebound",
+   "mid_range"
+  ],
+  "base": {
+   "three_point": 101,
+   "mid_range": 136,
+   "rim_finish": 212,
+   "rebound": 222,
+   "pass": 132,
+   "steal": 134,
+   "block": 186,
+   "physical": 202,
+   "speed": 124
+  },
+  "iq": 89
+ },
+ {
+  "id": "HERO_P_XUHUANG",
+  "name": "徐晃",
+  "faction": "魏",
+  "quality": "purple",
+  "pref": "SF",
+  "designOvr": 153,
+  "signature": [
+   "mid_range",
+   "steal"
+  ],
+  "base": {
+   "three_point": 138,
+   "mid_range": 188,
+   "rim_finish": 177,
+   "rebound": 145,
+   "pass": 161,
+   "steal": 168,
+   "block": 130,
+   "physical": 165,
+   "speed": 161
+  },
+  "iq": 88
+ },
+ {
+  "id": "HERO_P_PANGDE",
+  "name": "庞德",
+  "faction": "魏",
+  "quality": "purple",
+  "pref": "PF",
+  "designOvr": 157,
+  "signature": [
+   "rim_finish",
+   "physical"
+  ],
+  "base": {
+   "three_point": 87,
+   "mid_range": 132,
+   "rim_finish": 235,
+   "rebound": 204,
+   "pass": 133,
+   "steal": 126,
+   "block": 188,
+   "physical": 229,
+   "speed": 126
+  },
+  "iq": 90
+ },
+ {
+  "id": "HERO_P_GANNING",
+  "name": "甘宁",
+  "faction": "吴",
+  "quality": "purple",
+  "pref": "SG",
+  "designOvr": 154,
+  "signature": [
+   "three_point",
+   "steal"
+  ],
+  "base": {
+   "three_point": 239,
+   "mid_range": 200,
+   "rim_finish": 139,
+   "rebound": 100,
+   "pass": 162,
+   "steal": 207,
+   "block": 69,
+   "physical": 123,
+   "speed": 208
+  },
+  "iq": 89,
+  "pref2": "SF"
+ },
+ {
+  "id": "HERO_P_TAISHICI",
+  "name": "太史慈",
+  "faction": "吴",
+  "quality": "purple",
+  "pref": "SG",
+  "designOvr": 156,
+  "signature": [
+   "mid_range",
+   "three_point"
+  ],
+  "base": {
+   "three_point": 232,
+   "mid_range": 233,
+   "rim_finish": 140,
+   "rebound": 96,
+   "pass": 164,
+   "steal": 197,
+   "block": 78,
+   "physical": 125,
+   "speed": 195
+  },
+  "iq": 89
+ },
+ {
+  "id": "HERO_P_HUANGAI",
+  "name": "黄盖",
+  "faction": "吴",
+  "quality": "purple",
+  "pref": "PF",
+  "designOvr": 150,
+  "signature": [
+   "physical",
+   "rebound"
+  ],
+  "base": {
+   "three_point": 98,
+   "mid_range": 120,
+   "rim_finish": 205,
+   "rebound": 215,
+   "pass": 128,
+   "steal": 120,
+   "block": 180,
+   "physical": 224,
+   "speed": 106
+  },
+  "iq": 87
+ },
+ {
+  "id": "HERO_P_LUSU",
+  "name": "鲁肃",
+  "faction": "吴",
+  "quality": "purple",
+  "pref": "PG",
+  "designOvr": 148,
+  "signature": [
+   "pass",
+   "steal"
+  ],
+  "base": {
+   "three_point": 194,
+   "mid_range": 178,
+   "rim_finish": 107,
+   "rebound": 89,
+   "pass": 247,
+   "steal": 200,
+   "block": 67,
+   "physical": 96,
+   "speed": 192
+  },
+  "iq": 86
+ },
+ {
+  "id": "HERO_P_YANLIANG",
+  "name": "颜良",
+  "faction": "群",
+  "quality": "purple",
+  "pref": "PF",
+  "designOvr": 159,
+  "signature": [
+   "rim_finish",
+   "rebound"
+  ],
+  "base": {
+   "three_point": 103,
+   "mid_range": 127,
+   "rim_finish": 238,
+   "rebound": 223,
+   "pass": 115,
+   "steal": 127,
+   "block": 191,
+   "physical": 223,
+   "speed": 127
+  },
+  "iq": 90
+ },
+ {
+  "id": "HERO_P_WENCHOU",
+  "name": "文丑",
+  "faction": "群",
+  "quality": "purple",
+  "pref": "C",
+  "designOvr": 158,
+  "signature": [
+   "rebound",
+   "rim_finish"
+  ],
+  "base": {
+   "three_point": 71,
+   "mid_range": 95,
+   "rim_finish": 257,
+   "rebound": 265,
+   "pass": 119,
+   "steal": 95,
+   "block": 229,
+   "physical": 256,
+   "speed": 111
+  },
+  "iq": 90
+ },
+ {
+  "id": "HERO_P_GONGSUNZAN",
+  "name": "公孙瓒",
+  "faction": "群",
+  "quality": "purple",
+  "pref": "SG",
+  "designOvr": 151,
+  "signature": [
+   "speed",
+   "three_point"
+  ],
+  "base": {
+   "three_point": 224,
+   "mid_range": 196,
+   "rim_finish": 143,
+   "rebound": 88,
+   "pass": 159,
+   "steal": 181,
+   "block": 76,
+   "physical": 121,
+   "speed": 217
+  },
+  "iq": 87
+ },
+ {
+  "id": "HERO_P_GAOSHUN",
+  "name": "高顺",
+  "faction": "群",
+  "quality": "purple",
+  "pref": "C",
+  "designOvr": 160,
+  "signature": [
+   "block",
+   "physical"
+  ],
+  "base": {
+   "three_point": 61,
+   "mid_range": 96,
+   "rim_finish": 232,
+   "rebound": 252,
+   "pass": 120,
+   "steal": 96,
+   "block": 267,
+   "physical": 269,
+   "speed": 112
+  },
+  "iq": 91
+ },
+ {
+  "id": "HERO_JIN_GUANYU",
+  "name": "关羽",
+  "faction": "蜀",
+  "quality": "gold",
+  "pref": "SF",
+  "designOvr": 235,
+  "signature": [
+   "mid_range",
+   "rim_finish",
+   "pass"
+  ],
+  "base": {
+   "three_point": 212,
+   "mid_range": 290,
+   "rim_finish": 290,
+   "rebound": 205,
+   "pass": 247,
+   "steal": 235,
+   "block": 200,
+   "physical": 254,
+   "speed": 234
+  },
+  "iq": 119,
+  "pref2": "PF"
+ },
+ {
+  "id": "HERO_JIN_ZHANGFEI",
+  "name": "张飞",
+  "faction": "蜀",
+  "quality": "gold",
+  "pref": "C",
+  "designOvr": 225,
+  "signature": [
+   "rim_finish",
+   "physical",
+   "block"
+  ],
+  "base": {
+   "three_point": 101,
+   "mid_range": 135,
+   "rim_finish": 359,
+   "rebound": 338,
+   "pass": 143,
+   "steal": 135,
+   "block": 343,
+   "physical": 371,
+   "speed": 158
+  },
+  "iq": 116,
+  "pref2": "PF"
+ },
+ {
+  "id": "HERO_JIN_ZHAOYUN",
+  "name": "赵云",
+  "faction": "蜀",
+  "quality": "gold",
+  "pref": "SG",
+  "designOvr": 230,
+  "signature": [
+   "speed",
+   "rim_finish",
+   "mid_range"
+  ],
+  "base": {
+   "three_point": 295,
+   "mid_range": 323,
+   "rim_finish": 232,
+   "rebound": 150,
+   "pass": 242,
+   "steal": 276,
+   "block": 115,
+   "physical": 184,
+   "speed": 331
+  },
+  "iq": 117,
+  "pref2": "SF"
+ },
+ {
+  "id": "HERO_JIN_MACHAO",
+  "name": "马超",
+  "faction": "蜀",
+  "quality": "gold",
+  "pref": "SF",
+  "designOvr": 228,
+  "signature": [
+   "speed",
+   "rim_finish",
+   "physical"
+  ],
+  "base": {
+   "three_point": 205,
+   "mid_range": 251,
+   "rim_finish": 281,
+   "rebound": 217,
+   "pass": 220,
+   "steal": 228,
+   "block": 194,
+   "physical": 246,
+   "speed": 275
+  },
+  "iq": 117
+ },
+ {
+  "id": "HERO_JIN_HUANGZHONG",
+  "name": "黄忠",
+  "faction": "蜀",
+  "quality": "gold",
+  "pref": "SG",
+  "designOvr": 224,
+  "signature": [
+   "three_point",
+   "mid_range",
+   "steal"
+  ],
+  "base": {
+   "three_point": 357,
+   "mid_range": 326,
+   "rim_finish": 202,
+   "rebound": 146,
+   "pass": 235,
+   "steal": 282,
+   "block": 112,
+   "physical": 179,
+   "speed": 252
+  },
+  "iq": 115
+ },
+ {
+  "id": "HERO_JIN_ZHUGE",
+  "name": "诸葛亮",
+  "faction": "蜀",
+  "quality": "gold",
+  "pref": "PG",
+  "designOvr": 226,
+  "signature": [
+   "pass",
+   "three_point",
+   "steal"
+  ],
+  "base": {
+   "three_point": 311,
+   "mid_range": 271,
+   "rim_finish": 163,
+   "rebound": 136,
+   "pass": 387,
+   "steal": 305,
+   "block": 102,
+   "physical": 129,
+   "speed": 294
+  },
+  "iq": 116
+ },
+ {
+  "id": "HERO_JIN_DIANWEI",
+  "name": "典韦",
+  "faction": "魏",
+  "quality": "gold",
+  "pref": "C",
+  "designOvr": 227,
+  "signature": [
+   "physical",
+   "block",
+   "rebound"
+  ],
+  "base": {
+   "three_point": 102,
+   "mid_range": 136,
+   "rim_finish": 329,
+   "rebound": 368,
+   "pass": 170,
+   "steal": 136,
+   "block": 369,
+   "physical": 392,
+   "speed": 140
+  },
+  "iq": 116
+ },
+ {
+  "id": "HERO_JIN_XUCHU",
+  "name": "许褚",
+  "faction": "魏",
+  "quality": "gold",
+  "pref": "PF",
+  "designOvr": 229,
+  "signature": [
+   "physical",
+   "rebound",
+   "rim_finish"
+  ],
+  "base": {
+   "three_point": 127,
+   "mid_range": 183,
+   "rim_finish": 327,
+   "rebound": 333,
+   "pass": 195,
+   "steal": 183,
+   "block": 275,
+   "physical": 342,
+   "speed": 183
+  },
+  "iq": 117
+ },
+ {
+  "id": "HERO_JIN_SIMAYI",
+  "name": "司马懿",
+  "faction": "魏",
+  "quality": "gold",
+  "pref": "PG",
+  "designOvr": 225,
+  "signature": [
+   "pass",
+   "steal",
+   "mid_range"
+  ],
+  "base": {
+   "three_point": 281,
+   "mid_range": 292,
+   "rim_finish": 191,
+   "rebound": 135,
+   "pass": 375,
+   "steal": 315,
+   "block": 101,
+   "physical": 132,
+   "speed": 293
+  },
+  "iq": 116
+ },
+ {
+  "id": "HERO_JIN_ZHOUYU",
+  "name": "周瑜",
+  "faction": "吴",
+  "quality": "gold",
+  "pref": "SG",
+  "designOvr": 231,
+  "signature": [
+   "three_point",
+   "pass",
+   "steal"
+  ],
+  "base": {
+   "three_point": 368,
+   "mid_range": 300,
+   "rim_finish": 208,
+   "rebound": 135,
+   "pass": 272,
+   "steal": 291,
+   "block": 116,
+   "physical": 185,
+   "speed": 289
+  },
+  "iq": 118
+ },
+ {
+  "id": "HERO_JIN_LUXUN",
+  "name": "陆逊",
+  "faction": "吴",
+  "quality": "gold",
+  "pref": "PG",
+  "designOvr": 223,
+  "signature": [
+   "pass",
+   "three_point",
+   "mid_range"
+  ],
+  "base": {
+   "three_point": 312,
+   "mid_range": 289,
+   "rim_finish": 190,
+   "rebound": 134,
+   "pass": 372,
+   "steal": 279,
+   "block": 100,
+   "physical": 128,
+   "speed": 290
+  },
+  "iq": 115
+ },
+ {
+  "id": "HERO_JIN_SUNCE",
+  "name": "孙策",
+  "faction": "吴",
+  "quality": "gold",
+  "pref": "SF",
+  "designOvr": 232,
+  "signature": [
+   "rim_finish",
+   "speed",
+   "physical"
+  ],
+  "base": {
+   "three_point": 188,
+   "mid_range": 255,
+   "rim_finish": 293,
+   "rebound": 220,
+   "pass": 244,
+   "steal": 232,
+   "block": 197,
+   "physical": 251,
+   "speed": 273
+  },
+  "iq": 118
+ },
+ {
+  "id": "HERO_JIN_LVBU",
+  "name": "吕布",
+  "faction": "群",
+  "quality": "gold",
+  "pref": "PF",
+  "designOvr": 240,
+  "signature": [
+   "rim_finish",
+   "physical",
+   "rebound"
+  ],
+  "base": {
+   "three_point": 133,
+   "mid_range": 207,
+   "rim_finish": 368,
+   "rebound": 343,
+   "pass": 204,
+   "steal": 192,
+   "block": 288,
+   "physical": 359,
+   "speed": 192
+  },
+  "iq": 121
+ }
+]
